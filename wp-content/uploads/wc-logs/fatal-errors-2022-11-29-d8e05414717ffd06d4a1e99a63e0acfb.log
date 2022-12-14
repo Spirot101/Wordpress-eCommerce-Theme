@@ -1,0 +1,8 @@
+2022-11-29T10:51:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-includes\functions.php on line 4541
+
+2022-11-29T10:51:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-includes\functions.php on line 4541
+
+2022-11-29T10:51:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-11-29T10:52:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-content\plugins\woocommerce\src\Admin\RemoteInboxNotifications\RuleEvaluator.php on line 9
+

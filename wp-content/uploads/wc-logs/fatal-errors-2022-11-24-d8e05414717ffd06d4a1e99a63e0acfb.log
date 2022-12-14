@@ -1,0 +1,4 @@
+2022-11-24T11:54:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-includes\block-editor.php on line 203
+
+2022-11-24T12:26:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\active-filters.asset.php on line 1
+

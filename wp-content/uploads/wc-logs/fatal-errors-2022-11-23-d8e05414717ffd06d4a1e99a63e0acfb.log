@@ -1,0 +1,10 @@
+2022-11-23T11:00:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-includes\functions.php on line 6620
+
+2022-11-23T13:36:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php on line 15
+
+2022-11-23T13:36:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ClassicTemplate.php on line 309
+
+2022-11-23T14:46:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-admin\includes\theme.php on line 1212
+
+2022-11-23T14:53:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-includes\Requests\Transport\cURL.php on line 165
+

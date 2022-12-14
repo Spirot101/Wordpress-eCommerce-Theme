@@ -1,0 +1,4 @@
+2022-12-02T14:01:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-content\plugins\woocommerce\src\Admin\API\Reports\SqlQuery.php on line 8
+
+2022-12-02T14:04:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\store.test\wp-content\plugins\woocommerce\src\Admin\RemoteInboxNotifications\SpecRunner.php on line 8
+
