@@ -2328,3 +2328,18 @@ body:not(.search-results) .twentysixteen .entry-summary {
 	background: inherit;
 	color: inherit;
 }
+
+/**
+ * eb own WooCommerce styling
+ */
+.showcoupon {
+	color: rgba(64, 16, 64, 1) !important;
+}
+
+.checkout-button, .update_cart_btn, .place_order_btn {
+	color: white !important;
+}
+
+.woocommerce-privacy-policy-text p {
+	color: black !important;
+}

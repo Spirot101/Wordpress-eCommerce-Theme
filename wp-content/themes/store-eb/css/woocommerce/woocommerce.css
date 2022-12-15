@@ -2510,4 +2510,19 @@ body:not(.search-results) .twentysixteen .entry-summary {
 .twentysixteen .price ins {
   background: inherit;
   color: inherit;
+}
+
+/**
+ * eb own WooCommerce styling
+ */
+.showcoupon {
+  color: rgb(64, 16, 64) !important;
+}
+
+.checkout-button, .update_cart_btn, .place_order_btn {
+  color: white !important;
+}
+
+.woocommerce-privacy-policy-text p {
+  color: black !important;
 }/*# sourceMappingURL=woocommerce.css.map */
